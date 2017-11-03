@@ -11,6 +11,10 @@ public class gitproject1 {
 		System.out.println("added to eclipse");
 		
 		System.out.println("b1 line added to eclipse");
+		
+		System.out.println("New b1 line added to eclipse");
 	}
 
 }
+
+
