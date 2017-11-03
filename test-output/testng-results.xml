@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31" started-at="2017-11-03T17:56:42Z" finished-at="2017-11-03T17:56:42Z">
+  <suite name="Suite" duration-ms="22" started-at="2017-11-03T18:33:25Z" finished-at="2017-11-03T18:33:25Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="31" started-at="2017-11-03T17:56:42Z" finished-at="2017-11-03T17:56:42Z">
+    <test name="Test" duration-ms="22" started-at="2017-11-03T18:33:25Z" finished-at="2017-11-03T18:33:25Z">
       <class name="testgit.gitproject1">
-        <test-method status="PASS" signature="prgm()[pri:0, instance:testgit.gitproject1@19a81e8]" name="prgm" duration-ms="14" started-at="2017-11-03T23:26:42Z" finished-at="2017-11-03T23:26:42Z">
+        <test-method status="PASS" signature="prgm()[pri:0, instance:testgit.gitproject1@cbc42f]" name="prgm" duration-ms="10" started-at="2017-11-04T00:03:25Z" finished-at="2017-11-04T00:03:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prgm -->
