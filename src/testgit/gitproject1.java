@@ -8,6 +8,7 @@ public class gitproject1 {
 	public static void main(String[] args) {
 		System.out.println(i+" "+j);
 		System.out.println("added to git hub");
+		System.out.println("added to eclipse");
 	}
 
 }
