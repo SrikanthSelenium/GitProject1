@@ -12,7 +12,9 @@ public class gitproject1 {
 		
 		System.out.println("b1 line added to eclipse");
 		
-		System.out.println("New b1 line added to eclipse");
+
+		System.out.println("master line added to eclipse");
+
 	}
 
 }
